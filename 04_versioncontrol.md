@@ -27,7 +27,17 @@ If you feel that you have finished a portion of a code that you want to update i
 
 When a portion of your work is staged, we can get ready to upload our staged files. The act of committing will create __"save points"__ in our project to revert back to if we run into issues or bugs.
 
+### Clone
 
+### Push
+
+### Pull
+
+### Merge
+
+### Fork
 
 ## Sources
 - Atlassian -- [https://www.atlassian.com/git](https://www.atlassian.com/git)
+- W3Schools -- [https://www.w3schools.com/git/default.asp?remote=github](https://www.w3schools.com/git/default.asp?remote=github)
+- Git -- [https://git-scm.com/](https://git-scm.com/)
