@@ -10,7 +10,7 @@ Most software projects are group based work; therefore, we need ways to merge co
 - Track edit history
 - Git is an industry standard skill
 - Leave editing notes
-- Helps you organize a portfolio
+- Helps you organize a coding portfolio
 ## Sources
 - Wikipedia -- [https://en.wikipedia.org/wiki/Git](https://en.wikipedia.org/wiki/Git)
 - Atlassian -- [https://www.atlassian.com/git/tutorials/what-is-git](https://www.atlassian.com/git/tutorials/what-is-git)
